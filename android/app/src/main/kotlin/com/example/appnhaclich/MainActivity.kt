@@ -1,4 +1,4 @@
-package com.example.appnhaclich
+package com.app.notification
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257427037429",
+    "project_id": "notification-tutorial-df1fd",
+    "storage_bucket": "notification-tutorial-df1fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257427037429:android:a918fb6fa2985f3d3279bc",
+        "android_client_info": {
+          "package_name": "com.app.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257427037429-e021l71nukmmf4e4193bnpukkptjm391.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoHREqGYCv8T7_RXwWusYjU3O7VfO3MPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257427037429-e021l71nukmmf4e4193bnpukkptjm391.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
